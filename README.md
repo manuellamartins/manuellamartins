@@ -55,7 +55,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/manuellamartins/manuellamartins/output/snake.svg" alt="Snake animation" />
 
-###
 
